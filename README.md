@@ -1,6 +1,6 @@
 # Data-Science-and-Machine-Learning-With-Amin
 
-# AI Learning Series Part 1: Foundations with Python, NumPy, and the Journey Ahead
+# Data Science and Machine Learning Series: Foundations with Python, NumPy, and the Journey Ahead
 
 > Welcome to the beginning of a comprehensive journey into Artificial Intelligence! This post is the **first part** of an in-depth blog series, documenting everything I'm learning from scratch. If you're starting out too, this roadmap might guide you, inspire you, or even become your favorite reference. Let’s break down the essential tools and concepts you'll meet on this exciting path, from Python to Deep Learning. 🌱
 
