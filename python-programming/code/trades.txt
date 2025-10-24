@@ -1,0 +1,3 @@
+BTC: Buy 29000, Sell 29500
+ETH: Buy 1800, Sell 1850
+BNB: Buy 320, Sell 310
